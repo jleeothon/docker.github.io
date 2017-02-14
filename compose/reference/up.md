@@ -4,7 +4,7 @@ keywords: fig, composition, compose, docker, orchestration, cli,  up
 title: docker-compose up
 ---
 
-```
+```text
 Usage: up [options] [SERVICE...]
 
 Options:
